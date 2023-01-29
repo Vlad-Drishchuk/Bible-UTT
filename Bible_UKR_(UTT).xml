@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<XMLBIBLE version="3.0.0.9.1" p1:noNamespaceSchemaLocation="zef2005.xsd" biblename="Sathyavedapusthakam (Malayalam Bible) published in 1910" type="x-bible" status="v" revision="20" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+  <INFORMATION>
+    <title>Переклад Р. Турконяка</title>
+    <creator>Vladyslav Drishchuk</creator>
+    <subject>Bible.Ukr</subject>
+    <description>href="https://github.com/tfbf/sathyavedapusthakam" Proofreading completed.</description>
+    <publisher />
+    <contributors />
+    <date>2023-01-21</date>
+    <type />
+    <format>Zefania XML Bible Markup Language</format>
+    <identifier>Mal1910</identifier>
+    <source>https://github.com/tfbf/sathyavedapusthakam</source>
+    <language>mal</language>
+    <coverage>provide the bible to the nations of the world</coverage>
+    <rights>Public Domain</rights>
+  </INFORMATION>
+<BIBLEBOOK bnumber="Буття" bname="Genesis" bsname="Gen">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">ആദിയിൽ ദൈവം ആകാശവും ഭൂമിയും സൃഷ്ടിച്ചു.</VERS>
+    </CHAPTER>
+</BIBLEBOOK>
